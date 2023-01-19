@@ -1,3 +1,5 @@
-==== ACT III: Title
+[#chapter-9-foo-bar]
+= ACT III: Chapter 9 - Foo Bar
 
 Tell you story
+
