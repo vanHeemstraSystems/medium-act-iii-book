@@ -2,7 +2,7 @@ medium-act-iii-book
 # Book of Act III on Medium
 
 # Welcome
-This is an Asciidoc book of Creations's "ACT III". It simply takes all his [medium posts](https://medium.com/act-i) and joins them together for ease of reading.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
+This is an Asciidoc book of Creations's "ACT III". It simply takes all their [medium posts](https://medium.com/act-i) and joins them together for ease of reading.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
 
 # Downloads
 If you want the PDF, or MOBI versions of this book, click on the "releases" tab above.
