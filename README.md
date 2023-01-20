@@ -33,6 +33,8 @@ KindleGen is no longer available for download. Please use Kindle Previewer to co
 
 We recommend using EPUB format for publishing new reflowable titles and updating previously published titles. MOBI should only be used when testing on older devices that do not support Enhanced Typesetting.
 
+Simply open the Kindle Previewer, open the HTML edition of the book (medium-act-iii-book.html) and export it as a Kindle file (medium-act-iii-book.kpf).
+
 [Click here to visit the Kindle Previewer product page](https://tinyurl.com/y84exbka?rw_useCurrentProtocol=1&ref_=amb_link_n94Zbz6DNuSumTne6o22Bg_1)
 
 # Contributing
