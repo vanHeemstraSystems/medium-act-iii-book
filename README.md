@@ -24,10 +24,16 @@ Then you can run the following command in the base directory of this repository:
 
     asciidoctor-pdf medium-act-iii-book.adoc
 
-## .MOBI (Kindle)
-To generate the .mobi version of this book you additionally need to install [Asciidoctor-EPUB3](https://asciidoctor.org/docs/asciidoctor-epub3/) and [kindlegen](https://rubygems.org/gems/kindlegen/versions/3.0.3) both via  Ruby gems - the instructions are in the linked pages.  The pre-requisite to run both of these is Ruby. You can then run the following command in the base directory of this repository:
+## .KPF (Kindle)
+KindleGen is no longer available for download. Please use Kindle Previewer to convert, preview, and validate your eBooks. Kindle Previewer provides the same functionality of KindleGen and, in addition, provides:
 
-    asciidoctor-epub3 -a ebook-format=kf8 medium-act-iii-book.adoc
+- Latest Kindle Conversion software that provides up-to-date validation for Enhanced Typesetting books (currently available for books in all languages except Simplified Chinese, Japanese, and Russian).
+- Choice of using in Graphical User Interface (GUI) for a visual inspection of your book, or, Command Line Interface (CLI) mode for bulk validation.
+- Faster preview and validation with features like thumbnails, auto-previews, and filters for pages with images, tables, drop caps, and links.
+
+We recommend using EPUB format for publishing new reflowable titles and updating previously published titles. MOBI should only be used when testing on older devices that do not support Enhanced Typesetting.
+
+[Click here to visit the Kindle Previewer product page](https://tinyurl.com/y84exbka?rw_useCurrentProtocol=1&ref_=amb_link_n94Zbz6DNuSumTne6o22Bg_1)
 
 # Contributing
 Contributions are cool, and also very welcome.  There is a [code of conduct](CODE_OF_CONDUCT.md), and a [contribution guide](CONTRIBUTING.md) which you can familiarise yourself with if you want to get involved (even if its just fixing a typo).  They should be _very_ unsurprising to anyone used to the OSS world.
